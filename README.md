@@ -18,7 +18,7 @@ Stab City Upgrade is a small upgrade of the Stab City area which adds about 15+ 
 
 * 2: Un-zip the contents of the zip file.
 
-* 3: Insert into the resource folder (FiveM Server).
+* 3: Insert into the resources folder (FiveM Server).
 
 * 4: Start the resource (start stabcityupgrade).
 
