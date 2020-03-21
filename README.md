@@ -12,6 +12,20 @@ Stab City Upgrade is a small upgrade of the Stab City area which adds about 15+ 
 
 ---
 
+**Installation.**
+
+* 1: Download Stab City Upgrade YMAP.
+
+* 2: Un-zip the contents of the zip file.
+
+* 3: Insert into the resource folder (FiveM Server).
+
+* 4: Start the resource (start stabcityupgrade).
+
+* 5: You have successfully installed this YMAP.
+
+---
+
 **Warning.**
 
 This YMAP does not need a warning. It is super simple, and has no recorded errors.
