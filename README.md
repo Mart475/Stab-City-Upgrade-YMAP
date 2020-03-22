@@ -1,5 +1,11 @@
 **[Release] [YMAP] Stab City Upgrade.**
 
+---
+
+**Developed for [RepublicMP](https://forum.cfx.re/t/republicmp-ts3-voip-realistic-economy-lore-friendly-no-lag-texture-loss-immersive-eup-8-1-discord-gg-99krxme/434713).**
+
+---
+
 Stab City Upgrade is a small upgrade of the Stab City area which adds about 15+ new props to the area. It was created in Codewalker, with each prop being hand placed and moved into it's correct position. I could go on for hours of how asthetically pleasing this YMAP is, I really like my creation.
 
 ---
@@ -49,7 +55,3 @@ This YMAP does not need a warning. It is super simple, and has no recorded error
 **Download.**
 
 [Stab City Upgrade YMAP - Download.](https://github.com/Mart475/Stab-City-Upgrade-YMAP)
-
----
-
-**Developed for [RepublicMP](https://forum.cfx.re/t/republicmp-ts3-voip-realistic-economy-lore-friendly-no-lag-texture-loss-immersive-eup-8-1-discord-gg-99krxme/434713).**
