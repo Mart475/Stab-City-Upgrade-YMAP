@@ -2,19 +2,7 @@
 
 ---
 
-**Developed for [RepublicMP](https://forum.cfx.re/t/republicmp-ts3-voip-realistic-economy-lore-friendly-no-lag-texture-loss-immersive-eup-8-1-discord-gg-99krxme/434713).**
-
----
-
-Stab City Upgrade is a small upgrade of the Stab City area which adds about 15+ new props to the area. It was created in Codewalker, with each prop being hand placed and moved into it's correct position. I could go on for hours of how asthetically pleasing this YMAP is, I really like my creation.
-
----
-
-**Key Features.**
-
-* New props to make the area look better.
-* Hand placed using Codewalker.
-* Semi-realistic prop placement.
+The Stab City Upgrade is a small upgrade of the Stab City area which adds about 15+ new props to the area. It was created in Codewalker with each prop being placed by hand, and then nicely plopped into position. I could go on for hours of how aesthetically pleasing this YMAP is, I really like my creation.
 
 ---
 
