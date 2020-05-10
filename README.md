@@ -43,3 +43,11 @@ This YMAP does not need a warning. It is super simple, and has no recorded error
 **Download.**
 
 [Stab City Upgrade YMAP - Download.](https://github.com/Mart475/Stab-City-Upgrade-YMAP)
+
+---
+
+**FiveM Forum.**
+
+[FiveM Forum Link.](https://forum.cfx.re/t/release-ymap-stab-city-upgrade/1074130)
+
+
