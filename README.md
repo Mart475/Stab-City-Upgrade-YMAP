@@ -1,28 +1,26 @@
+![alt text](https://forum.cfx.re/uploads/default/original/4X/d/2/b/d2b0e1263a055a9baa6384f53930f99acfe49aa0.png "Banner")
+
+---
+
 **[Release] [YMAP] Stab City Upgrade.**
 
 ---
 
-The Stab City Upgrade is a small upgrade of the Stab City area which adds about 15+ new props to the area. It was created in Codewalker with each prop being placed by hand, and then nicely plopped into position. I could go on for hours of how aesthetically pleasing this YMAP is, I really like my creation.
+The night is dark, and the Lost wander around their personal civilization. Nothing can be done to them, except nature growing and overtaking. New stuff is all around Stab City.
 
 ---
 
 **Installation.**
 
-* 1: Download Stab City Upgrade YMAP.
+* Download Stab City Upgrade YMAP.
 
-* 2: Un-zip the contents of the zip file.
+* Un-zip the contents of the zip file.
 
-* 3: Insert into the resources folder (FiveM Server).
+* Insert into the resources folder (FiveM Server).
 
-* 4: Start the resource (start stabcityupgrade).
+* Start the resource (start stabcityupgrade).
 
-* 5: You have successfully installed this YMAP.
-
----
-
-**Warning.**
-
-This YMAP does not need a warning. It is super simple, and has no recorded errors.
+* You have successfully installed this YMAP.
 
 ---
 
@@ -37,17 +35,3 @@ This YMAP does not need a warning. It is super simple, and has no recorded error
 ![alt text](https://forum.cfx.re/uploads/default/original/4X/a/6/b/a6b54a744324d4f609ee4bdbd01b56664bd139c9.jpeg "4")
 
 ![alt text](https://forum.cfx.re/uploads/default/original/4X/0/6/8/068e4d63bd97699a1fdd2f150ddfa90926d51a40.jpeg "5")
-
----
-
-**Download.**
-
-[Stab City Upgrade YMAP - Download.](https://github.com/Mart475/Stab-City-Upgrade-YMAP)
-
----
-
-**FiveM Forum.**
-
-[FiveM Forum Link.](https://forum.cfx.re/t/release-ymap-stab-city-upgrade/1074130)
-
-
